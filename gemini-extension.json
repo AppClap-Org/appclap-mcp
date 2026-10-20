@@ -1,0 +1,10 @@
+{
+  "name": "appclap",
+  "version": "1.0.0",
+  "description": "Find the web app that fits a need, ranked by fit alone, with facts from each vendor's own site.",
+  "mcpServers": {
+    "appclap": {
+      "httpUrl": "https://mcp.app-clap.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.app-clap/appclap",
+  "title": "AppClap",
+  "description": "Find the web app that fits a need — ranked by fit, with dated facts from each vendor's site.",
+  "version": "1.0.0",
+  "websiteUrl": "https://app-clap.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.app-clap.com/mcp"
+    }
+  ]
+}
