@@ -18,6 +18,25 @@ server lets any AI assistant or agent query it over the
 This repository holds the connection details and listing files only. The
 server itself is hosted by AppClap; there is nothing to install or run.
 
+## Why not just ask your AI or Google?
+
+1. **Finds apps beyond the famous names.** AI and Google keep suggesting the
+   same big tools. AppClap also covers small and brand-new apps that rarely
+   show up in either, and they're often cheaper.
+2. **Up-to-date prices and features.** AI answers from what it learned months
+   ago. AppClap reads every fact from the app's own website and shows the date
+   it was checked.
+3. **No made-up facts.** When a price or feature isn't published, AppClap says
+   "not stated" instead of guessing.
+4. **Filter by what matters to you:** free plan, a price limit, open source,
+   self-hosted, or "an alternative to X". Just say it in your request.
+5. **Compare in one step, not ten tabs.** Pricing, free plan, trial and
+   features side by side, in each app's own currency.
+6. **Ranked by fit, never by money.** No ads, no paid placement, no sponsored
+   lists.
+
+Free, no key needed.
+
 ## Tools
 
 | Tool | What it does |
