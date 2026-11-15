@@ -52,6 +52,12 @@ Every fact comes from the vendor's own site. A missing fact is reported as
 
 ## Connect
 
+**One click:**
+[Add to Cursor](https://cursor.com/en/install-mcp?name=appclap&config=eyJ1cmwiOiJodHRwczovL21jcC5hcHAtY2xhcC5jb20vbWNwIn0%3D) ·
+[Add to VS Code](https://vscode.dev/redirect/mcp/install?name=appclap&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.app-clap.com%2Fmcp%22%7D)
+
+Or set it up by hand:
+
 **Claude** (claude.ai or Desktop): Settings → Connectors → Add custom
 connector → `https://mcp.app-clap.com/mcp/signin` (sign in once, free), or
 `https://mcp.app-clap.com/mcp` to use it without signing in.
